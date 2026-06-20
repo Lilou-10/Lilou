@@ -1,0 +1,243 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 4K
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389600&extension=ts&play_token=YdYRJoi5Dk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389594&extension=ts&play_token=C6gk9BvoKJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389588&extension=ts&play_token=9jAtTQ4OKH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389582&extension=ts&play_token=2aroLW8B9V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 4K
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389599&extension=ts&play_token=VKR2kt966C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389593&extension=ts&play_token=BAMz8boN7L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389587&extension=ts&play_token=qsoGevLOwH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389581&extension=ts&play_token=NMV8mHZnzo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 4K
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389598&extension=ts&play_token=Xv6VACFj1F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389592&extension=ts&play_token=GogsxSXxfE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389586&extension=ts&play_token=a4K7eMiJ21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389580&extension=ts&play_token=VroI503f3u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 4K
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389597&extension=ts&play_token=nox7JKbOiL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389591&extension=ts&play_token=ODw8LYLmx1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389585&extension=ts&play_token=aWl30TDdSn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389579&extension=ts&play_token=tgelqvesj4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 4K
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389596&extension=ts&play_token=uVpxg5NAks
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389590&extension=ts&play_token=ntD1O3mzZF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389584&extension=ts&play_token=XUJFufBdpB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389578&extension=ts&play_token=EvRvqbZw9k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 4K
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389595&extension=ts&play_token=fvP0k6WxcN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389589&extension=ts&play_token=hxD7mMehGG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389583&extension=ts&play_token=U3ISS3lk75
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389577&extension=ts&play_token=uCeXkRnC8c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ˢᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389558&extension=ts&play_token=SHu4dnfiN1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389564&extension=ts&play_token=sQ2CYjQKQS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ᶠʰᵈ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389570&extension=ts&play_token=O33sPIoPus
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ⁴ᴷ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389576&extension=ts&play_token=O2fYQETlEP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ˢᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389557&extension=ts&play_token=GvREngRfVn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389563&extension=ts&play_token=bJsWjkUN5E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ᶠʰᵈ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389569&extension=ts&play_token=9TOflZzukF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ⁴ᴷ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389575&extension=ts&play_token=y8fe0Ml9dL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ˢᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389556&extension=ts&play_token=6vzP8n3Rt9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389562&extension=ts&play_token=DF7Qf3tSdb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ᶠʰᵈ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389568&extension=ts&play_token=hd6IiJIUbt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ⁴ᴷ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389574&extension=ts&play_token=AkXbRxcz4T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ˢᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389555&extension=ts&play_token=a03PvliSuG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389561&extension=ts&play_token=zFuogMaKde
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ᶠʰᵈ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389567&extension=ts&play_token=V4tigFeZhf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ⁴ᴷ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389573&extension=ts&play_token=cUHKLSSKow
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ˢᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389554&extension=ts&play_token=cECFBiT828
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389560&extension=ts&play_token=tUzm8l8c1o
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ᶠʰᵈ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389566&extension=ts&play_token=DEs57Hk7eM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ⁴ᴷ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389572&extension=ts&play_token=kl9HafiQfH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ˢᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389553&extension=ts&play_token=oyz3yOrcfA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389559&extension=ts&play_token=sdRVpgP6MZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ᶠʰᵈ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389565&extension=ts&play_token=ehvRLOwdBY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ⁴ᴷ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389571&extension=ts&play_token=BTnBXofEje
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="BEIN SPORTS MAX BE",BEIN SPORTS MAX ᵁᴴᴰ 4K
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1394422&extension=ts&play_token=fUc5mY8XOM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389618&extension=ts&play_token=ceip5oyiVt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ʰᵉᵛᶜ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389612&extension=ts&play_token=flVdDxIEYq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389624&extension=ts&play_token=fKMaNPc5ro
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ᴿᴬᵂ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389606&extension=ts&play_token=Ufwx63TbP5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389617&extension=ts&play_token=Otn6oyvJAm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ʰᵉᵛᶜ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389611&extension=ts&play_token=Rqbn3tdBqf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389623&extension=ts&play_token=5ZM0q5PjwE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ᴿᴬᵂ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389605&extension=ts&play_token=86xTLhXyff
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389616&extension=ts&play_token=CCZI8m02xS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ʰᵉᵛᶜ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389610&extension=ts&play_token=ylcfdsS39F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389622&extension=ts&play_token=pajnWi0XMZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ᴿᴬᵂ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389604&extension=ts&play_token=YqnMcucsF2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389615&extension=ts&play_token=Fh5rXGFuJP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ʰᵉᵛᶜ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389609&extension=ts&play_token=uDi8H37AKn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389621&extension=ts&play_token=FWJ8FwLoZe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ᴿᴬᵂ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389603&extension=ts&play_token=P8DQQOpfet
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389614&extension=ts&play_token=4jPw3L0nLh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ʰᵉᵛᶜ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389608&extension=ts&play_token=6FASqmDKXW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389620&extension=ts&play_token=0Tty2FPN7U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ᴿᴬᵂ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389602&extension=ts&play_token=FvAphrlCKB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389613&extension=ts&play_token=8SyUWOM2Pw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ʰᵉᵛᶜ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389607&extension=ts&play_token=SH3pmPOwT6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ᴴᴰ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389619&extension=ts&play_token=3esZiSt70n
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ᴿᴬᵂ
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1389601&extension=ts&play_token=Yldtj88YYb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392978&extension=ts&play_token=dM2zDc3LBT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392977&extension=ts&play_token=VZdju2YZYb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392976&extension=ts&play_token=sHNl7MJFYg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392975&extension=ts&play_token=iRloGUAP2l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392974&extension=ts&play_token=RVwXypGmYG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392973&extension=ts&play_token=Yx87H5p4ps
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392972&extension=ts&play_token=OCnY5Zv0s0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392971&extension=ts&play_token=YzEfvh3b8v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 3 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392970&extension=ts&play_token=Z4GMbG3Blo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 3 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392969&extension=ts&play_token=OiUWKotExm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 3 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392968&extension=ts&play_token=eTaq3MGD0l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 3 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392967&extension=ts&play_token=ktA0Ya5fVs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 4 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392966&extension=ts&play_token=YhWnDpVWDS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 4 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392965&extension=ts&play_token=7FxKxa9ouy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 4 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392964&extension=ts&play_token=pD25bgzgY1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 4 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392963&extension=ts&play_token=pQist5utfX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 5 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392962&extension=ts&play_token=kCyD7yjUHo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 5 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392961&extension=ts&play_token=o3nkGvh3SJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 5 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392960&extension=ts&play_token=Tmfrt4e5yD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 5 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392959&extension=ts&play_token=epznqnza5J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 6 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392958&extension=ts&play_token=3Ag6SUa4qJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 6 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392957&extension=ts&play_token=cCD2WExZxv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 6 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392956&extension=ts&play_token=I1kZOvldsR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 6 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392955&extension=ts&play_token=5xzcMizlBI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 (BA) FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392954&extension=ts&play_token=dqHSKFWdJL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 (BA) HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392953&extension=ts&play_token=S8j8KDdmBo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 (BA) HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392952&extension=ts&play_token=vucoaBtd7U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 1 (BA) SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392951&extension=ts&play_token=odU6OyMQhm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 (BA) FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392950&extension=ts&play_token=oIRl6JnNin
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 (BA) HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392949&extension=ts&play_token=K2YvbkNXPQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 (BA) HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392948&extension=ts&play_token=NzKw5EKWF0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX BE",BEIN MAX 2 (BA) SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392947&extension=ts&play_token=VoigQ9FK2x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 1 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392994&extension=ts&play_token=qtekRGzVLJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 1 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392993&extension=ts&play_token=p2v0aGKKmZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 1 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392992&extension=ts&play_token=COXMdtlrD4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 1 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392991&extension=ts&play_token=h3b6iIk1OH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 2 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392990&extension=ts&play_token=40LbuPUmS5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 2 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392989&extension=ts&play_token=6k50uc1evd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 2 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392988&extension=ts&play_token=NMmcKuYp3A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 2 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392987&extension=ts&play_token=Le4E2n9ecq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 3 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392986&extension=ts&play_token=IwS2Wusc6x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 3 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392985&extension=ts&play_token=4yrG9wV6Ma
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 3 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392984&extension=ts&play_token=rUMOnRDk6K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 3 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392983&extension=ts&play_token=IMFxUXjbvn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 4 FHD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392982&extension=ts&play_token=JE01ayAaXk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 4 HD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392981&extension=ts&play_token=26FVYIQvUw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 4 HEVC
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392980&extension=ts&play_token=1ayMjTZ7lR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX G",BEIN SPORTS MAX 4 SD
+http://hdtvprime.com:80/play/live.php?mac=00:1A:79:eb:e0:96&stream=1392979&extension=ts&play_token=onZ2lrJuOY
