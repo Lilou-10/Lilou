@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K NM
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2097322&extension=ts&play_token=z3oqbX8pzf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BEIN SPORTS MAX ᵁᴴᴰ 4K
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095904&extension=ts&play_token=0bXhqWAhYV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| BBC ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095903&extension=ts&play_token=cmhAChsOrP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095902&extension=ts&play_token=rZ9vzxf3JQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095901&extension=ts&play_token=GV11xVxE3L
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095900&extension=ts&play_token=34qKDJ3EPT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095899&extension=ts&play_token=O0q67ekt7k
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095898&extension=ts&play_token=moZlIV6rHK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095897&extension=ts&play_token=VWBINxuobM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095896&extension=ts&play_token=PK9ZPZIzaD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095895&extension=ts&play_token=OTmaxjmYA4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095894&extension=ts&play_token=GlhNS7FKYr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095893&extension=ts&play_token=RG75p36KgT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 1 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095892&extension=ts&play_token=uPZYSqyinq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| FUSSBALL.TV 2 [BK] ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095891&extension=ts&play_token=uACQbbNRJp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 1 DE ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095890&extension=ts&play_token=nELdeIseIF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| MW FUSSBALL 2 DE ᵁᴴᴰ ³⁸⁴⁰ᴾᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095889&extension=ts&play_token=kUDy4p7KQA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 ᵁᴴᴰ ³⁸⁴⁰ᴾ",WC-4K| UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2095888&extension=ts&play_token=CSaymDJUgU
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ˢᴰ
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D5:5A:C4&stream=2076966&extension=ts&play_token=vJ35cObz9j
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ᴴᴰ
